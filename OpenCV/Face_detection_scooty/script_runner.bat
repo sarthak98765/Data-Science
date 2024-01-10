@@ -1,0 +1,1 @@
+"C:\Users\Sarthak Aggarwal\AppData\Local\Microsoft\WindowsApps\python.exe"  "C:\Users\Sarthak Aggarwal\DATA SCIENCE\OpenCV\Face_detection_scooty\lock_face.py"
