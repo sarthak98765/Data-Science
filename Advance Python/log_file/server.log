@@ -1,0 +1,9 @@
+INFO User logged in
+INFO Payment processed
+ERROR Database connection failed
+INFO Email sent
+WARNING Disk space low
+ERROR Timeout occurred
+INFO Backup completed
+ERROR Unauthorized access attempt
+INFO Server restarted
